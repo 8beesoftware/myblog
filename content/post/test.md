@@ -1,6 +1,10 @@
 ---
-title: "ブログを構築しました"
-date: 2019-03-07T13:26:09+09:00
+title: "test"
+title: 'Links'
+date: 2019-03-07
+layout: 'links'
+menu: 'main'
+weight: 40
 draft: false
 ---
 
