@@ -2,3 +2,21 @@ baseURL = "https://8beesoftware.github.io/"
 languageCode = "ja"
 title = "My New Hugo Site"
 theme = "hugo-nuo"
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Works"
+  weight = 20
+  identifier = "works"
+  url = "https://github.com/8beesoftware"
+
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
