@@ -1,6 +1,12 @@
 baseURL = "https://8beesoftware.github.io/"
 languageCode = "ja"
-title = "My New Hugo Site"
+title = "8beesoftware BLOG."
+DefaultContentLanguage = "ja"
+publishdir = "public"  # 公開用ディレクトリ（この名前を推奨）
+contentdir = "content" # コンテンツのディレクトリ
+canonifyurls = true # 絶対パス指定
+hasCJKLanguage = true # 記事の要約を正しく機能させるために必要
+googleAnalytics =  "" # "GoogleAnalyticsを使用する場合はここにコードを記述"
 theme = "hugo-nuo"
 
 [[menu.main]]
