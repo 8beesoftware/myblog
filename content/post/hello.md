@@ -1,7 +1,7 @@
 ---
 title: "ブログを開始しました。"
 author: "nao"
-cover: ""
+cover: "/images/iPhonexIMGL6175_TP_V4 (1).jpg"
 tags: ["", ""]
 date: 2019-03-19T14:12:47+09:00
 draft: false
